@@ -36,7 +36,7 @@ This Python script connects to a SQL Server database, parses specific tables, an
   - * sqlalchemy   
 ### Installation
 1. Clone the repository:
-'''git clone https://github.com/Rew-Son/Modify-Attribute.git'''
+'''code(git clone https://github.com/Rew-Son/Modify-Attribute.git)'''
 2. Install required Python libraries:
     '''pip install -r requirements.txt'''
 ## Usage
