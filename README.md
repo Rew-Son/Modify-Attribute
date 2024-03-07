@@ -36,12 +36,13 @@ This Python script connects to a SQL Server database, parses specific tables, an
   - * sqlalchemy   
 ### Installation
 1. Clone the repository:
-'''code(git clone https://github.com/Rew-Son/Modify-Attribute.git)'''
+'''
+git clone https://github.com/Rew-Son/Modify-Attribute.git '''
 2. Install required Python libraries:
-    '''pip install -r requirements.txt'''
+    ''' pip install -r requirements.txt '''
 ## Usage
 1. Run the script:
-   'python modify_attribute_script.py'
+   ' python modify_attribute_script.py '
 3. Connect to the database, choose authentication type, and provide necessary details.
 4. Perform actions like parsing tables, filling attributes, and saving the table.
    
