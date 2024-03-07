@@ -49,6 +49,11 @@ git clone https://github.com/Rew-Son/Modify-Attribute.git
     modify_attribute_script.py
     ```
 3. Connect to the database, choose authentication type, and provide necessary details.
-4. Perform actions like parsing tables, filling attributes, and saving the table.
+   ![image](https://github.com/Rew-Son/Modify-Attribute/assets/71393344/4d2a6d23-72f3-4ed4-9191-9ac6288100c6)
+
+5. Perform actions like parsing tables, filling attributes, and saving the table.
+   ![image](https://github.com/Rew-Son/Modify-Attribute/assets/71393344/77d39632-120f-468f-99e1-6531cbb083e7)
+
+   
    
 
