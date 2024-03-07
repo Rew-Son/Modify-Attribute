@@ -13,7 +13,7 @@ This Python script connects to a SQL Server database, parses specific tables, an
 [Contributing] (#Contributing)
 [License] (#License)
 
-<a name="Features">
+
 ## Features
 * ### Database Connection:
   Connects to a SQL Server database using either Windows or SQL Server authentication.
