@@ -51,7 +51,4 @@ git clone https://github.com/Rew-Son/Modify-Attribute.git
 3. Connect to the database, choose authentication type, and provide necessary details.
 4. Perform actions like parsing tables, filling attributes, and saving the table.
    
-## Contributing
-Contributions are welcome! If you find any issues or have suggestions, please open an issue or submit a pull request.
-
 
