@@ -6,7 +6,7 @@ This Python script connects to a SQL Server database, parses specific tables, an
 
 ## Table of Contents
 [Features](#Features)
-[Getting Started](#Getting Started)
+[Getting Started](#GettingStarted)
 [Prerequisites](#Prerequisites)
 [Installation](#Installation)
 [Usage](#Usage)
